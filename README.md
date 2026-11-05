@@ -1,0 +1,1 @@
+# hw_for_init_iter_of_python
